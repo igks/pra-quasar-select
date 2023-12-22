@@ -1,0 +1,63 @@
+{
+  "provinces": [
+    {
+      "id": 1,
+      "value": 1,
+      "label": "Aceh"
+    },
+    {
+      "id": 2,
+      "value": 2,
+      "label": "Bali"
+    },
+    {
+      "id": 3,
+      "value": 3,
+      "label": "Banten"
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "provinceId": 1,
+      "value": 1,
+      "label": "Banda Aceh"
+    },
+    {
+      "id": 2,
+      "provinceId": 1,
+      "value": 2,
+      "label": "Langsa"
+    },
+    {
+      "id": 3,
+      "provinceId": 1,
+      "value": 3,
+      "label": "Lhokseumawe"
+    },
+    {
+      "id": 4,
+      "provinceId": 1,
+      "value": 4,
+      "label": "Sabang"
+    },
+    {
+      "id": 5,
+      "provinceId": 2,
+      "value": 5,
+      "label": "Denpasar"
+    },
+    {
+      "id": 6,
+      "provinceId": 3,
+      "value": 6,
+      "label": "Cilegon"
+    },
+    {
+      "id": 7,
+      "provinceId": 3,
+      "value": 7,
+      "label": "Serang"
+    }
+  ]
+}
